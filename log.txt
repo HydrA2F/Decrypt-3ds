@@ -1,0 +1,130 @@
+07/05/2023 11:44:37,72 
+
+Parsing NCSD in file "0450 - Pokemon X (Europe) (En,Ja,Fr,De,Es,It,Ko).3ds":
+  Parsing Main NCCH
+    Product code: CTR-P-EKJA
+    KeyY: 18F5B001507EF44DFC5FF040D0E1F6C8
+    Title ID: 0004000000055D00
+    Format version: 2
+
+    ExHeader offset:  00000200
+    ExHeader counter: 0004000000055d000100000000000000
+    ExHeader size: 2048 bytes
+    ExeFS offset:  00002E00
+    ExeFS counter: 0004000000055d000200000000000000
+    ExeFS size: 3164160 bytes
+    RomFS offset:  00308000
+    RomFS counter: 0004000000055d000300000000000000
+    RomFS size: 1797873664 bytes
+
+  Parsing Manual NCCH
+    Product code: CTR-P-CTAP
+    KeyY: 11DB0362D473A8959C825933EDEE39DE
+    Title ID: 0005000000055D00
+    Format version: 0
+
+    RomFS offset:  00001000
+    RomFS counter: 0005000000055d000300000000000000
+    RomFS size: 6230016 bytes
+
+  Parsing UpdateData NCCH
+    Product code: CTR-P-CTAP
+    KeyY: BB940D2184E56FFD97222DE783EDFB05
+    Title ID: 1810000000055D00
+    Format version: 0
+
+    RomFS offset:  00001000
+    RomFS counter: 1810000000055d000300000000000000
+    RomFS size: 30736384 bytes
+
+
+Done!
+[NCCH WARNING] Failed to sign CFA header
+[NCSD WARNING] Failed to sign header
+
+Parsing NCSD in file "0451 - Pokemon Y (Europe) (En,Ja,Fr,De,Es,It,Ko).3ds":
+  Parsing Main NCCH
+    Product code: CTR-P-EK2A
+    KeyY: 1FD7D48EA28C87B44FBF458B75CBA63A
+    Title ID: 0004000000055E00
+    Format version: 2
+
+    ExHeader offset:  00000200
+    ExHeader counter: 0004000000055e000100000000000000
+    ExHeader size: 2048 bytes
+    ExeFS offset:  00002E00
+    ExeFS counter: 0004000000055e000200000000000000
+    ExeFS size: 3163136 bytes
+    RomFS offset:  00308000
+    RomFS counter: 0004000000055e000300000000000000
+    RomFS size: 1797873664 bytes
+
+  Parsing Manual NCCH
+    Product code: CTR-P-CTAP
+    KeyY: 15BFA773AB9EE5077F9393A337F69078
+    Title ID: 0005000000055E00
+    Format version: 0
+
+    RomFS offset:  00001000
+    RomFS counter: 0005000000055e000300000000000000
+    RomFS size: 6230016 bytes
+
+  Parsing UpdateData NCCH
+    Product code: CTR-P-CTAP
+    KeyY: A4AE594AF38C5E38C689A72810AE215C
+    Title ID: 1810000000055E00
+    Format version: 0
+
+    RomFS offset:  00001000
+    RomFS counter: 1810000000055e000300000000000000
+    RomFS size: 30736384 bytes
+
+
+Done!
+[NCCH WARNING] Failed to sign CFA header
+[NCSD WARNING] Failed to sign header
+
+Parsing NCSD in file "[D] The Legend of Zelda Majoras Mask 3D (Europe).3ds":
+  Parsing Main NCCH
+    Product code: CTR-P-AJRP
+    KeyY: B7E521253F26C3966A5848F9C991B746
+    Title ID: 0004000000125600
+    Format version: 2
+    Uses Extra NCCH crypto, keyslot 0x25
+    Not Encrypted
+
+    ExHeader offset:  00000200
+    ExHeader counter: 00040000001256000100000000000000
+    ExHeader size: 2048 bytes
+    ExeFS offset:  00002C00
+    ExeFS counter: 00040000001256000200000000000000
+    ExeFS size: 4206592 bytes
+    RomFS offset:  00406000
+    RomFS counter: 00040000001256000300000000000000
+    RomFS size: 669958144 bytes
+
+  Parsing Manual NCCH
+    Product code: CTR-P-CTAP
+    KeyY: 03D9B2903C584AAF167077DF0A0135E9
+    Title ID: 0005000000125600
+    Format version: 0
+    Not Encrypted
+
+    RomFS offset:  00001000
+    RomFS counter: 00050000001256000300000000000000
+    RomFS size: 2015232 bytes
+
+  Parsing UpdateData NCCH
+    Product code: CTR-P-CTAP
+    KeyY: FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+    Title ID: 000B000000125600
+    Format version: 0
+    Not Encrypted
+
+    RomFS offset:  00001000
+    RomFS counter: 000b0000001256000300000000000000
+    RomFS size: 31875072 bytes
+
+
+Done!
+[NCSD WARNING] Failed to sign header
